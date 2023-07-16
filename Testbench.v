@@ -5,7 +5,7 @@
 //
 // Create Date:   
 // Design Name:   multiplier
-// Module Name:   D:/PEC/7th SEMESTER/HDL based system design/Lab/project_verilog/multiplier_tb.v
+// Module Name:   project_verilog/multiplier_tb.v
 // Project Name:  project_verilog
 // Target Device:  
 // Tool versions:  
